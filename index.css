@@ -80,7 +80,7 @@ hr {
 }
 .banner {
     height: 515px;
-    background-image: url(./static/cover.png);
+    background-image: url(./static/cover.jpg);
     background-position: center center;
     background-size: cover;
 }
