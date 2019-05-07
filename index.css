@@ -269,6 +269,7 @@ section.sample {
 section.sample > nav {
     text-align: center;
     display: inline-block;
+    margin-top: 32px;
 }
 section.sample > nav > ol {
     /*border: 1px solid red;*/
